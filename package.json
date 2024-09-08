@@ -1,0 +1,74 @@
+{
+  "name": "liveloud",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+<<<<<<< HEAD
+    "@emotion/react": "^11.11.3",
+    "@emotion/styled": "^11.11.0",
+    "@hookform/resolvers": "^3.3.4",
+    "@material-ui/icons": "^4.11.3",
+=======
+    "@emoji-mart/data": "^1.1.2",
+    "@emoji-mart/react": "^1.1.1",
+    "@radix-ui/react-accordion": "^1.1.2",
+>>>>>>> 62c7c0bd668754cb987cdaa3ddb436fe32d1e0c2
+    "@radix-ui/react-avatar": "^1.0.4",
+    "@radix-ui/react-checkbox": "^1.0.4",
+    "@radix-ui/react-dialog": "^1.0.5",
+    "@radix-ui/react-dropdown-menu": "^2.0.6",
+    "@radix-ui/react-icons": "^1.3.0",
+    "@radix-ui/react-label": "^2.0.2",
+    "@radix-ui/react-menubar": "^1.0.4",
+    "@radix-ui/react-popover": "^1.0.7",
+    "@radix-ui/react-scroll-area": "^1.0.5",
+    "@radix-ui/react-select": "^2.0.0",
+    "@radix-ui/react-separator": "^1.0.3",
+    "@radix-ui/react-slot": "^1.0.2",
+    "@radix-ui/react-tabs": "^1.0.4",
+    "@sweetalert2/theme-dark": "^5.0.15",
+    "class-variance-authority": "^0.7.0",
+    "clsx": "^2.1.0",
+    "embla-carousel-react": "^8.0.0-rc18",
+    "emoji-mart": "^5.5.2",
+    "firebase": "^10.7.1",
+    "gif-picker-react": "^1.3.2",
+    "ldrs": "^1.0.1",
+    "lucide-react": "^0.303.0",
+    "lz-string": "^1.5.0",
+    "md5": "^2.3.0",
+<<<<<<< HEAD
+    "next": "^14.0.4",
+=======
+    "moment": "^2.30.1",
+    "next": "14.0.4",
+    "nextjs-progressbar": "^0.0.16",
+>>>>>>> 62c7c0bd668754cb987cdaa3ddb436fe32d1e0c2
+    "react": "^18",
+    "react-dom": "^18",
+    "react-drag-drop-files": "^2.3.10",
+    "react-dropzone": "^14.2.3",
+    "react-hook-form": "^7.49.2",
+    "react-infinite-scroll-component": "^6.1.0",
+    "react-share": "^5.0.3",
+    "sweetalert2": "^11.10.2",
+    "sweetalert2-react-content": "^5.0.7",
+    "swr": "^2.2.4",
+    "tailwind-merge": "^2.2.0",
+    "tailwindcss-animate": "^1.0.7",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.0.1",
+    "eslint": "^8",
+    "eslint-config-next": "14.0.4",
+    "postcss": "^8",
+    "tailwindcss": "^3.3.0"
+  }
+}
